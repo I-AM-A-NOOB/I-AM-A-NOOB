@@ -1,51 +1,41 @@
-# Who am I
+# Hi, I'm I-AM-A-NOOB 👋
 
-<div style="padding:20px;border-radius:5px;box-shadow:0px 10px 20px 1px #0078d4;">
-    <div style="float:right;border:2px solid grey;border-radius:5px;width:100px;height:130px">
-        <h1 align="center" style="font-size:70px;">
-            ?
-        </h1>
-    </div>
-    <table border="1">
-        <tr>
-            <th><b>item</b></th>
-            <th>details</th>
-        </tr>
-        <tr>
-            <td><b>name: </b></td>
-            <td>I-AM-A-NOOB</td>
-        </tr>
-        <tr>
-            <td><b>real name: </b></td>
-            <td>Su Zichen(苏子宸)</td>
-        </tr>
-        <tr>
-            <td><b>country: </b></td>
-            <td>China</td>
-        </tr>
-        <tr>
-            <td><b>grade: </b></td>
-            <td>高一</td>
-        </tr>
-        <tr>
-            <td><b>Programming Languages: </b></td>
-            <td>Python C++</td>
-        </tr>
-        <tr>
-            <td><b>favorite IDE: </b></td>
-            <td>VS code</td>
-        </tr>
-    </table>
-</div>
+> Yes, a **noob**. A young Chinese student, a Marxism enthusiast, and a proud Vibe Coder.
 
----
+## Who am I
 
-Yes, a **noob**. A young Chinese student.
+I'm a student who is interested in computers. I'm not a good programmer—I'm just decent with computers, and most of my code is written by Vibe Coding.
 
-I don' t really know how to code.
+| Period | Experience |
+| --- | --- |
+| 2023–2026 | Xiamen Foreign Language School — Science track student |
+| 2026– | Sun Yat-sen University, Zhongshan School of Medicine — Clinical Medicine student |
 
-I have learnt **C++** and **Python**, but just a little.
+## Interests
 
-![](https://ts1.cn.mm.bing.net/th/id/R-C.0b9c873d6774403d5a658f2edd10cb1c?rik=c3GY74J2vsTFOg&riu=http%3a%2f%2fwx1.sinaimg.cn%2fbmiddle%2f006ARE9vgy1g40ulquj1zj30ts0q43zy.jpg&ehk=U1hnagUuj%2booxb1v5q2iXZ88E4eZ1pBY4dyX%2f475AAE%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1 "The extent of my understanding")
+- Computers, tech, and random tinkering
+- Vibe Coding
+- Open-source learning and study notes
+- Chemistry, biology, and medicine
+- Marxism and Marxist theory
+- Philosophy, history, and social science
 
+## Tech & Coding
 
+- **Computer skills:** decent
+- **Programming skills:** noob
+- **Main development method:** Vibe Coding
+- **Languages:** Python (basic), C/C++ (very basic), R (very very basic)
+- **Debugging strategy:** ask AI, run it, hope it works
+
+## How to reach me
+
+- Email: suzc08@outlook.com
+- GitHub: [@I-AM-A-NOOB](https://github.com/I-AM-A-NOOB)
+
+## Fun fact
+
+> “The philosophers have only interpreted the world, in various ways. The point, however, is to change it.”  
+> — Karl Marx
+
+Thanks for stopping by. ⭐️
